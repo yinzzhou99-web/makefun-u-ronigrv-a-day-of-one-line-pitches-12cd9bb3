@@ -6,6 +6,10 @@ directory (MAKEFUN_OUTPUT_DIR, default /output). Standard library only.
 The line is judged on making the case in one read, persuasion with a
 concrete low-risk reason to say yes now, clarity in plain words, truth
 with no overpromising, and warmth.
+
+Chosen pitch: one sentence, a concrete first step (describe the idea),
+the builder named (an AI agent), and the risk removed — your $5 only goes
+to the best one. Plain words, no jargon, sounds like a friend talking.
 """
 
 import os
